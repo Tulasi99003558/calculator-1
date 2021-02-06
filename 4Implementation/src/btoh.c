@@ -2,7 +2,7 @@
  
 int btoh()
 {
-    long int binaryval, hexadecimalval = 0, i = 1;
+    long int binaryval=0, hexadecimalval = 0, i = 1;
  
     printf("Enter the binary number: ");
     scanf("%ld", &binaryval);
