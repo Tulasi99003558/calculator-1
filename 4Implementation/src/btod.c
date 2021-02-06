@@ -3,7 +3,7 @@
 
 int btod()
 {
-      int  num, binary_val, decimal_val = 0, base = 1, rem;
+      int  num, binary_val, decimal_val = 0, base = 1, rem=0;
 
       printf("Insert a binary num (1s and 0s) \n");
       scanf("%d", &num); /* maximum five digits */
