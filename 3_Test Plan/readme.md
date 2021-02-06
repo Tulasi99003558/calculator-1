@@ -69,9 +69,9 @@
 |  Test ID | Description  | Expected I/P  |  Expected O/P |
 |---|---|---|---|
 |  1 |  Select factorial operator | Enter the case number to select operation  | Will select the operation based on case number  |
-|  2 |  When number is positive  | Correct number as input  | Will show the correct result  |
-|  3 |   When number is negative | Correct number as input | Will show the correct result   |
-|  4 |  When number is zero  | Correct number as input | Will show the correct result |
+|  2 |  When number is positive  | a positive number N  | Fact=N*(N-1)* (N-2)...  |
+|  3 |   When number is negative | a negative number | Return 1   |
+|  4 |  When number is zero  | N=0 | Return 1 |
 
 ## Prime Number Test Plans
 
