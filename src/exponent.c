@@ -3,6 +3,7 @@
 double exponent(float num)
 {
     float x;
+    x = num;
     double result;
     const float e = 2.71828;
     if(x==0)
