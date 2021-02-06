@@ -1,10 +1,10 @@
-1. **Requirements**
-
+1.  **Requirements**
+  
   1. Cost and Aging Scale
 
-    1. **Evolution of the calculators**
+1. **Evolution of the calculators**
 
-1. 1623: First Adding Machine
+  1. 1623: First Adding Machine
 
 CALCULATING CLOCK by WILHELM SCHICKARD
 
