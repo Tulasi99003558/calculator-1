@@ -130,7 +130,7 @@ void calculator_menu(void)
             greater(calculator_operand1, calculator_operand2));
             
             __fpurge(stdin);
-            getchar();
+            getchar();n
             break;
           case SMALLER:
             printf("\n\t SMALLER of %d / %d = %d\nEnter to continue", 
@@ -187,7 +187,7 @@ void calculator_menu(void)
             getchar();
             break;
           case MTOCM:
-            printf("\n\t %f in cm is %f  \nEnter to continue", 
+            printf("\n\t %d in cm is %d  \nEnter to continue", 
             calculator_operand1, 
             metertocenti(calculator_operand1));
             
