@@ -16,7 +16,7 @@ int hexatobinary()
 
     printf("Enter the value for hexadecimal ");
 
-    scanf("%s", hexa);
+    scanf("%s", &hexa);
 
     printf("\n Equivalent binary value: ");
 
