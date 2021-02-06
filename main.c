@@ -115,7 +115,7 @@ void calculator_menu(void)
             __fpurge(stdin);
             getchar();
             break;
-         case PRIME:
+         case PRIME:n
             printf("\n\t %d is a prime number if %d is 1 \nEnter to continue", 
             calculator_operand1, 
             prime(calculator_operand1));
@@ -187,7 +187,7 @@ void calculator_menu(void)
             getchar();
             break;
           case MTOCM:
-            printf("\n\t %d in cm is %d  \nEnter to continue", 
+            printf("\n\t %f in cm is %f  \nEnter to continue", 
             calculator_operand1, 
             metertocenti(calculator_operand1));
             
