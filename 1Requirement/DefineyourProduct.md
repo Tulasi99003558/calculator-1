@@ -54,3 +54,15 @@ Weaknesses:
 Now it's time to consider your organization's weaknesses. Be honest! A SWOT Analysis will only be valuable if you gather all the information you need. So, it's best to be realistic now, and face any unpleasant truths as soon as possible.
 
 Weaknesses, like strengths, are inherent features of your organization, so focus on your people, resources, systems, and procedures. Think about what you could improve, and the sorts of practices you should avoid.
+Opportunities
+
+Opportunities are openings or chances for something positive to happen, but you'll need to claim them for yourself!
+
+They usually arise from situations outside your organization, and require an eye to what might happen in the future. They might arise as developments in the market you serve, or in the technology you use. Being able to spot and exploit opportunities can make a huge difference to your organization's ability to compete and take the lead in your market.
+Threats
+
+Threats include anything that can negatively affect your business from the outside, such as supply chain problems, shifts in market requirements, or a shortage of recruits. It's vital to anticipate threats and to take action against them before you become a victim of them and your growth stalls.
+
+Think about the obstacles you face in getting your product to market and selling. You may notice that quality standards or specifications for your products are changing, and that you'll need to change those products if you're to stay in the lead. Evolving technology is an ever-present threat, as well as an opportunity!
+
+Always consider what your competitors are doing, and whether you should be changing your organization's emphasis to meet the challenge. But remember that what they're doing might not be the right thing for you to do, and avoid copying them without knowing how it will improve your position.
