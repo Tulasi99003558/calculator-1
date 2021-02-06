@@ -1,7 +1,8 @@
 #include<and.h>
 int and()
 {
-int a,b;
+int a;
+int b;
 printf("enter a value : ");
 printf("enter b value : ");
 Scanf("%d",&a);
