@@ -1,4 +1,4 @@
-![](RackMultipart20210205-4-1nqvg8k_html_c10dcb45dcaef407.jpg)
+![](RackMultipart20210206-4-8ltef0_html_c10dcb45dcaef407.jpg)
 
 # **Define your Product: Calculator**
 
@@ -31,6 +31,5 @@ Probability functions, Calculations of estimated cost, ages etc.
 Design: Using the standard methods and following the high precision for designing the calculator and all the operations are very convenient for the user and having more no of functions built in it.
 
 **SWOT ANALYSIS:**
-x-special/nautilus-clipboard
-copy
-![](file:///home/ltts/Downloads/STRENGTHS%20WEAKNESS-1.jpg)
+
+![](RackMultipart20210206-4-8ltef0_html_b1f9957005242ef8.jpg)
