@@ -1,6 +1,4 @@
-# Test Plan
-
-## Test Plan (High Level)
+# Test Plan (High Level)
 
 | Test ID  | Description  | Expected I/O  |  Expected O/P | Condition |
 |---|---|---|---|---|
@@ -9,8 +7,8 @@
 | 3  | Display  | Proper display of output which can be recognized by the user  | Will display results with good visibility   | Requirement based |
 | 4  | Check the number of digits on display are within the limit  | Number of digits entered by user within the limit  | Number of digits entered are within a limit   | Requirement based |
 
-## Test Plan (Low Level)
-### Addition/Subtraction Test Plan
+# Test Plan (Low Level)
+## Addition/Subtraction Test Plan
 
 |  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
@@ -25,7 +23,7 @@
 |  9 | More than two numbers for subtraction  | Correct number as input  | Will show the correct result  | Boundary condition |
 
 
-### Multiplication/Division Test Plan
+## Multiplication/Division Test Plan
 
 |  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
@@ -40,7 +38,7 @@
 |  9 | More than two numbers for division  | Correct number as input  | Will show the correct result  | Boundary condition |
 
 
-### Logical Operation Test Plan
+## Logical Operation Test Plan
 
 |  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
@@ -50,7 +48,7 @@
 |  4 | Input bits for logical NAND | Correct bits as input  | Will show the correct result | Requirement based |
 |  5 | Input bits for logical NOR | Correct number as input  | Will show the correct result  | Requirement based |
 
-### Exponential Operation Test Plan
+## Exponential Operation Test Plan
 |  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
 |  1 |  Select exponential operator | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
@@ -58,7 +56,7 @@
 |  3 |   When power is negative | Correct number as input | Will show the correct result   | Scenario based |
 |  4 |  When power is decimal   | Correct number as input | Will show the correct result | Scenario based |
 
-### Binary to Decimal/Binary to Hexadecimal Test Plan
+## Binary to Decimal/Binary to Hexadecimal Test Plan
 
 |  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
@@ -66,7 +64,7 @@
 |  2 |  When binary to decimal | Correct number as input  | Will show the correct result  | Scenario based |
 |  3 |   When binary to hexadecimal | Correct number as input | Will show the correct result   | Scenario based |
 
-### Factorial Operation Test Plan
+## Factorial Operation Test Plan
 
 |  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
@@ -75,7 +73,7 @@
 |  3 |   When number is negative | a negative number | Return 1   | Scenario based |
 |  4 |  When number is zero  | N=0 | Return 1 | Scenario based |
 
-### Prime Number Test Plans
+## Prime Number Test Plans
 
 | Test ID   | Description | Expected I/P | Expected O/P | Condition |
 |---|---|---|---|---|
