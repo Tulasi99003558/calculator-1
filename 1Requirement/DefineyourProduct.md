@@ -38,3 +38,19 @@ SWOT stands for Strengths, Weaknesses, Opportunities, and Threats, and so a SWOT
 You can use SWOT Analysis to make the most of what you've got, to your organization's best advantage. And you can reduce the chances of failure, by understanding what you're lacking, and eliminating hazards that would otherwise catch you unawares.
 
 Better still, you can start to craft a strategy that distinguishes you from your competitors, and so compete successfully in your market.
+  Strengths:
+
+Strengths are things that your organization does particularly well, or in a way that distinguishes you from your competitors. Think about the advantages your organization has over other organizations. These might be the motivation of your staff, access to certain materials, or a strong set of manufacturing processes.
+
+Your strengths are an integral part of your organization, so think about what makes it "tick." What do you do better than anyone else? What values drive your business? What unique or lowest-cost resources can you draw upon that others can't? Identify and analyze your organization's Unique Selling Proposition
+
+(USP), and add this to the Strengths section.
+
+Then turn your perspective around and ask yourself what your competitors might see as your strengths. What factors mean that you get the sale ahead of them?
+
+Remember, any aspect of your organization is only a strength if it brings you a clear advantage. For example, if all of your competitors provide high-quality products, then a high-quality production process is not a strength in your market: it's a necessity.
+Weaknesses:
+
+Now it's time to consider your organization's weaknesses. Be honest! A SWOT Analysis will only be valuable if you gather all the information you need. So, it's best to be realistic now, and face any unpleasant truths as soon as possible.
+
+Weaknesses, like strengths, are inherent features of your organization, so focus on your people, resources, systems, and procedures. Think about what you could improve, and the sorts of practices you should avoid.
