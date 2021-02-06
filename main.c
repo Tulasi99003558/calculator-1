@@ -1,3 +1,5 @@
+
+calculator/1_Requirement/
 #include <calculator_operations.h>
 #include <math.h>
 
@@ -20,6 +22,8 @@ void calculator_menu(void);
 /* Verifies the requested operations validity */
 int valid_operation(int operation);
 
+
+calculator/1_Requirement/
 
 /* Start of the application */
 int main(int argc, char *argv[])
