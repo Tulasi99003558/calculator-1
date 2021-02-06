@@ -25,7 +25,7 @@
 
 ## Multiplication/Division Test Plan
 
-|  Test ID | Description  | Expected I/P  |  Expected O/P |
+|  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
 |  1 |  Select multiplication or division | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
 |  2 |  Input numbers for multiplication | Correct number as input  |  Will show the correct product of the numbers inputted | Requirement based |
@@ -40,7 +40,7 @@
 
 ## Logical Operation Test Plan
 
-|  Test ID | Description  | Expected I/P  |  Expected O/P |
+|  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
 |  1 |  Select logical operator | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
 |  2 |  Input bits for logical AND  | Correct bits as input  | Will show the correct result  | Requirement based | 
@@ -49,7 +49,7 @@
 |  5 | Input bits for logical NOR | Correct number as input  | Will show the correct result  | Requirement based |
 
 ## Exponential Operation Test Plan
-|  Test ID | Description  | Expected I/P  |  Expected O/P |
+|  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
 |  1 |  Select exponential operator | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
 |  2 |  When power is positive  | Correct number as input  | Will show the correct result  | Scenario based |
@@ -58,7 +58,7 @@
 
 ## Binary to Decimal/Binary to Hexadecimal Test Plan
 
-|  Test ID | Description  | Expected I/P  |  Expected O/P |
+|  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
 |  1 |  Select conversion operator | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
 |  2 |  When binary to decimal | Correct number as input  | Will show the correct result  | Scenario based |
@@ -66,7 +66,7 @@
 
 ## Factorial Operation Test Plan
 
-|  Test ID | Description  | Expected I/P  |  Expected O/P |
+|  Test ID | Description  | Expected I/P  |  Expected O/P | Condition |
 |---|---|---|---|---|
 |  1 |  Select factorial operator | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
 |  2 |  When number is positive  | a positive number N  | Fact=N*(N-1)* (N-2)...  | Scenario based |
@@ -75,7 +75,7 @@
 
 ## Prime Number Test Plans
 
-| Test ID   | Description | Expected I/P | Expected O/P
+| Test ID   | Description | Expected I/P | Expected O/P | Condition |
 |---|---|---|---|---|
 | 1 | Select prime number operator | Enter the case number to select operation  | Will select the operation based on case number  | Requirement based |
 | 2 | When the number is a prime number | Correct number as the input | Will show the correct result| Scenario based |
