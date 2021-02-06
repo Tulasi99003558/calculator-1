@@ -8,6 +8,8 @@ Req_03 |Conversions               |Converting binary to decimal and binary to he
 Req_04 |Factorial                 |The product of a given positive integer multiplied by all lesser positive integers.|
 Req_05 |Prime number              |A positive integer that is not divisible without remainder by any integer except itself and 1.|
 Req_06 |Exponential function      |An exponential function can be described as a growth or decay function that is in the form of e^x|
+Req_07 |Modulus function      |An modulus function can be described as the remainder of the division |
+Req_08 |Squareroot function      |An squareroot function can be described as the squareroot of a number |
 
 
 
@@ -18,5 +20,6 @@ Req_01 |Addition and subtraction  |It produces the output as the sum of the two 
 Req_02 |Multiplication and division|Multiplication is repeated addition,number times a numberDivision is to divide, a number splits into equal form using the second number|Saloni|
 Req_03 |AND, OR|AND- The result of the operation is 1 if both the bits have the value as 1; otherwise, the result is always 0.OR - The result of the operation is 1 if only one of the expressions has the value as 1; otherwise, the result is always 0.|Tulasi|
 Req_04 |NOT,NOR,NAND|NOT- It produces an inverted version of the input as the output,NOR- It produces a  low output if any of the inputs are high.,NAND- It produces a high output if any of the inputs are low.|Manushna|
-
-
+Req_05 |Exponential  | It produces the output as the power of e (Euler's number) |Alen|
+Req_06 |Modulus  | It produces the output as the remainder of division|Alen|
+Req_07 |Squareroot function   |It produces the output as the squareroot of a number | Alen |
