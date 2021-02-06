@@ -115,7 +115,7 @@ void calculator_menu(void)
             __fpurge(stdin);
             getchar();
             break;
-         case PRIME:n
+         case PRIME:
             printf("\n\t %d is a prime number if %d is 1 \nEnter to continue", 
             calculator_operand1, 
             prime(calculator_operand1));
@@ -130,7 +130,7 @@ void calculator_menu(void)
             greater(calculator_operand1, calculator_operand2));
             
             __fpurge(stdin);
-            getchar();n
+            getchar();
             break;
           case SMALLER:
             printf("\n\t SMALLER of %d / %d = %d\nEnter to continue", 
