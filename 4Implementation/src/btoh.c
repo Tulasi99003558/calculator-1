@@ -2,10 +2,11 @@
  
 int btoh()
 {
-    long int binaryval, hexadecimalval = 0, i = 1, remainder;
+    long int binaryval, hexadecimalval = 0, i = 1;
  
     printf("Enter the binary number: ");
     scanf("%ld", &binaryval);
+    long int remainder;
     while (binaryval != 0)
     {
         remainder = binaryval % 10;
